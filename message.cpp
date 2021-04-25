@@ -3,6 +3,6 @@
 using namespace std;
 
 void message::print(){
-	cout<<"Makefile and Software Version Control\n";
+	cout<<"Makefile\n";
 
 }
